@@ -5,7 +5,12 @@
 
 ## Graphic Artist, Web developer, student , gamer
 
-- 🎓 Currently trying to get 3 degrees under way
+- 🎓 Associates of Art Degree [done]
+- 🎓 Associates Graphic Design [Working]
+- 🎓 Associates of Graphic Communications [working]
+- 🎓 Associates Graphic Certificate [working]
+- 🎓 Degree of Networking [ may persue later ]
+
 - ✏️ Open to freelance projects to add to my portfolio !
 - ☕️ Coffee is life 
 
