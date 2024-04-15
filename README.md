@@ -1,7 +1,6 @@
 ### Hi there, I'm James - aka [copelandx][website] 👋
 
 [![Website](https://img.shields.io/website?label=CopelandX&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://copelandxcom)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 
 ## Graphic Artist, Web developer, student , gamer
 
